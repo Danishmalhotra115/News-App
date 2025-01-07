@@ -1,8 +1,10 @@
-##News App
+# News App
+
+![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
 
 This is a simple News App built with React, Redux Toolkit, and NewsAPI. The app fetches the latest news from around the world and allows users to filter and search through various topics.
 
-Features:
+## Features:
 
 Displays the latest international news.
 Fetches real-time data from newsapi.org.
@@ -10,22 +12,26 @@ Responsive UI, built with Tailwind CSS.
 Search functionality to explore news by keyword or topic.
 Setup Instructions
 
-Follow these steps to get the project running on your local machine:
+### Follow these steps to get the project running on your local machine:
 
-1. Clone the Repository
+#### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
-
-git clone https://github.com/yourusername/news-app.git
-2. Navigate to the Project Folder
-Open your terminal (or command prompt) and navigate into the project directory:
-
+```
+git clone https://github.com/yourusername/news-app.git.
+```
+### 2. Navigate to the Project Folder
+Open your terminal (or command prompt) and navigate into the project directory.
+```
 cd news-app
-3. Install Dependencies
+```
+### 3. Install Dependencies
 Run the following command to install all necessary dependencies:
-
+```
 npm install
-4. Start the App
+```
+### 4. Start the App
 After the dependencies are installed, run the following command to start the development server:
+```
+npm run dev
+```
 
-npm start
-Your app should now be running on http://localhost:3000.
