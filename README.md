@@ -1,6 +1,6 @@
 # News App
 
-![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
+![]([https://github.com/Danishmalhotra115/News-App/blob/main/src/Screenshot%202025-01-07%20at%2014.21.34.png])
 
 This is a simple News App built with React, Redux Toolkit, and NewsAPI. The app fetches the latest news from around the world and allows users to filter and search through various topics.
 
