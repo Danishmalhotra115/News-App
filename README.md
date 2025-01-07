@@ -1,8 +1,31 @@
-# React + Vite
+##News App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple News App built with React, Redux Toolkit, and NewsAPI. The app fetches the latest news from around the world and allows users to filter and search through various topics.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Displays the latest international news.
+Fetches real-time data from newsapi.org.
+Responsive UI, built with Tailwind CSS.
+Search functionality to explore news by keyword or topic.
+Setup Instructions
+
+Follow these steps to get the project running on your local machine:
+
+1. Clone the Repository
+Clone this repository to your local machine using the following command:
+
+git clone https://github.com/yourusername/news-app.git
+2. Navigate to the Project Folder
+Open your terminal (or command prompt) and navigate into the project directory:
+
+cd news-app
+3. Install Dependencies
+Run the following command to install all necessary dependencies:
+
+npm install
+4. Start the App
+After the dependencies are installed, run the following command to start the development server:
+
+npm start
+Your app should now be running on http://localhost:3000.
