@@ -18,7 +18,7 @@ Setup Instructions
 #### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/yourusername/news-app.git.
+git clone https://github.com/Danishmalhotra115/News-App.git
 ```
 ### 2. Navigate to the Project Folder
 Open your terminal (or command prompt) and navigate into the project directory.
